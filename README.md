@@ -2,6 +2,8 @@
 
 [![NPM](https://nodei.co/npm/vz.css.png?downloads=true)](https://nodei.co/npm/vz.css/)
 
+Feel free to contribute
+
 **Note:** This package is supposed to be used in a browser context using a tool like browserify
 
 ## Sample usage:
