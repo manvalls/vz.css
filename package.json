@@ -1,6 +1,6 @@
 {
   "name": "vz.css",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "Dynamically add, edit and remove css rules",
   "main": "main.js",
   "dependencies": {
